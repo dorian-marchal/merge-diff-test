@@ -1,0 +1,1 @@
+Dans la lib B, il n'y a plus de bug. :)
