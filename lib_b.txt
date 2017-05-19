@@ -1,8 +1,1 @@
-Dans la lib B,
-le bug est différent :
-
-               \/
-              \()/
-             --()--
-              //\\
-               \/
+Dans la lib B, il n'y a plus de bug. :)
